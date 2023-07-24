@@ -1,0 +1,13 @@
+.search-bar {
+  position: relative;
+  top: 0;
+  right: 0;
+  height: 40px;
+  font-size: 30px;
+}
+.filter-course {
+  width: 50%;
+}
+.search-bar-stucourses {
+  font-size: 50px;
+}
